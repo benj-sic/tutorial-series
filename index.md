@@ -27,7 +27,9 @@ By the end of this series, you should:
 
 The tutorials **with coding examples** can be launched using the rocket (🚀) button  at the top of the page. 
 
-<details>
+<span class="update-edit">New to Python? Start with the {doc}`Introduction to Python <resources/4.2.python_basics>` resource before trying the coding notebooks.</span>
+
+<details class="tutorial-setup">
 <summary> 🔽 Expand to see more details 🔽 </summary>
 
 ### Option 1 — Google Colab (**recommended**)
@@ -61,7 +63,6 @@ ANTHROPIC_API_KEY=your_key_here
 - Never commit or publicly share your API keys.
 - If a cell fails due to missing credentials, verify that your keys were loaded correctly before rerunning the cell.
 </details>
-
 
 # Submit Your Work
 

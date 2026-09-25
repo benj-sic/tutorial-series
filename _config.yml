@@ -23,7 +23,7 @@ sphinx:
       use_repository_button: true
       repository_url: "https://github.com/Future-House/tutorial-series"
       repository_branch: "main"
-      path_to_book: "."                                                 
+      path_to_book: "."
       launch_buttons:
         thebe: false
         colab_url: "https://colab.research.google.com"
@@ -36,6 +36,7 @@ html:
   favicon: figures/FutureHouse-Logo.png
   extra_css:
     - _static/custom.css
+    - _static/update-tutorial.css
 
 exclude_patterns:
   - .github/**
