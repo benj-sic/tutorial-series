@@ -9,19 +9,20 @@ bibtex_bibfiles:
   - references.bib
 
 repository:
-  url: "https://github.com/Future-House/tutorial-series"
+  url: "https://github.com/benj-sic/tutorial-series"
   branch: main
   path_to_book: "."
 
 sphinx:
   extra_extensions:
     - sphinxcontrib.bibtex
+    - sphinxcontrib.mermaid
   config:
     numfig: false
     html_theme_options:
       use_issues_button: true
       use_repository_button: true
-      repository_url: "https://github.com/Future-House/tutorial-series"
+      repository_url: "https://github.com/benj-sic/tutorial-series"
       repository_branch: "main"
       path_to_book: "."
       launch_buttons:

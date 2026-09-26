@@ -10,8 +10,11 @@ parts:
   - caption: "2. Applications of AI in Biology"
     chapters:
       - file: chapter_2/2.1.background
-      - file: chapter_2/2.2.llms_for_biology.ipynb
-      - file: chapter_2/2.3.external_databases.ipynb
+      - file: chapter_2/2.2.running_models
+      - file: chapter_2/2.3.scientific_literature.ipynb
+      - file: chapter_2/2.4.protein_structure_function.ipynb
+      - file: chapter_2/2.5.drug_target_activity.ipynb
+      - file: chapter_2/2.6.future_databases.ipynb
 
   - caption: "3. LLM Agents"
     chapters:
