@@ -27,7 +27,7 @@ By the end of this series, you should:
 
 The tutorials **with coding examples** can be launched using the rocket (🚀) button  at the top of the page. 
 
-<span class="update-edit">New to Python? Start with the {doc}`Introduction to Python <resources/4.2.python_basics>` resource before trying the coding notebooks.</span>
+New to Python? Start with the {doc}`Introduction to Python <resources/4.2.python_basics>` resource before trying the coding notebooks.
 
 <details class="tutorial-setup">
 <summary> 🔽 Expand to see more details 🔽 </summary>
