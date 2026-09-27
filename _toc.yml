@@ -6,6 +6,8 @@ parts:
     chapters:
       - file: chapter_1/1.1.ai_history_references.md
       - file: chapter_1/1.2.tokens_context.ipynb
+      - file: chapter_1/1.3.embeddings_similarity.ipynb
+      - file: chapter_1/1.4.future_foundations.md
 
   - caption: "2. Applications of AI in Biology"
     chapters:
@@ -14,7 +16,7 @@ parts:
       - file: chapter_2/2.3.scientific_literature.ipynb
       - file: chapter_2/2.4.protein_structure_function.ipynb
       - file: chapter_2/2.5.drug_target_activity.ipynb
-      - file: chapter_2/2.6.future_databases.ipynb
+      - file: chapter_2/2.6.future_databases.md
 
   - caption: "3. AI Agents for Scientific Research"
     chapters:
@@ -28,3 +30,8 @@ parts:
       - file: resources/4.1.glossary.md
       - file: resources/4.2.python_basics.ipynb
       - file: resources/4.3.submit_work.md
+
+  - caption: "5. Next Chapters"
+    chapters:
+      - file: next_chapters/5.1.agent_evals.md
+      - file: next_chapters/5.2.design_test_learn.md
